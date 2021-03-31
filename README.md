@@ -2,10 +2,8 @@
 
 ## Bio
 
-Hiroaki Sasaki  
+Hiroaki Sasaki as Web Developer  
 [Twitter](https://twitter.com/doutori3033) / [Github](https://github.com/doutori)
-
-Web Developer
 
 ## Career
 
